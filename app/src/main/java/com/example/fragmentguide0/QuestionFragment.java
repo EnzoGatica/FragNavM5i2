@@ -17,13 +17,9 @@ import com.example.fragmentguide0.databinding.FragmentQuestionBinding;
 public class QuestionFragment extends Fragment {
     private FragmentQuestionBinding mBinding;
 
-
     public QuestionFragment() {
         // Required empty public constructor
     }
-
-
-
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
